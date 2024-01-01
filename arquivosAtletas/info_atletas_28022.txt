@@ -1,0 +1,174 @@
+
+Nome: Walter
+Numeração: 1
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 18/11/1987
+
+Nome: João Carlos
+Numeração: 21
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 06/04/1988
+
+Nome: Vinicius Barreta
+Numeração: 26
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 16/04/1999
+
+Nome: Alan Empereur
+Numeração: 33
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 10/03/1994
+
+Nome: Marllon
+Numeração: 4
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 16/04/1992
+
+Nome: Allyson
+Numeração: 34
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 23/10/1990
+
+Nome: Vitão
+Numeração: 3
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 17/09/2000
+
+Nome: Rikelme
+Numeração: 20
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 16/07/2003
+
+Nome: Uendel
+Numeração: 6
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 08/10/1988
+
+Nome: Juan Tavares
+Numeração: 63
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 25/04/2002
+
+Nome: Patric Calmon
+Numeração: 94
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 05/07/1994
+
+Nome: Matheus Alexandre
+Numeração: 2
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 07/04/1999
+
+Nome: Matheusinho
+Numeração: 98
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 07/10/1998
+
+Nome: Lucas Mineiro
+Numeração: 31
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 24/02/1996
+
+Nome: Raniele
+Numeração: 14
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 31/12/1996
+
+Nome: Ronald
+Numeração: 8
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 18/06/1997
+
+Nome: Filipe Augusto
+Numeração: 5
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 12/08/1993
+
+Nome: Fernando Sobral
+Numeração: 88
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 17/12/1994
+
+Nome: Denilson
+Numeração: 27
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 23/03/2001
+
+Nome: Ricardo Cerqueira
+Numeração: 54
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 29/12/2002
+
+Nome: Nicolás Quagliata
+Numeração: 25
+Posição: Ponta Esquerda
+Nacionalidade: Uruguai
+Data de Nascimento: 05/06/1999
+
+Nome: Clayson
+Numeração: 29
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 19/03/1995
+
+Nome: Gabryel Freitas
+Numeração: 84
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 28/10/2002
+
+Nome: Jonathan Cafu
+Numeração: 7
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 10/07/1991
+
+Nome: Wellington Silva
+Numeração: 11
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 06/01/1993
+
+Nome: Emerson Ramon
+Numeração: 17
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 24/11/2000
+
+Nome: Isidro Pitta
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Paraguai
+Data de Nascimento: 14/08/1999
+
+Nome: Deyverson
+Numeração: 16
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 08/05/1991
+
+Nome: Derik Lacerda
+Numeração: 22
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 27/09/1999

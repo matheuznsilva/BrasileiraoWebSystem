@@ -1,0 +1,162 @@
+
+Nome: Everson
+Numeração: 22
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 22/07/1990
+
+Nome: Matheus Mendes
+Numeração: 31
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 10/03/1999
+
+Nome: Gabriel Delfim
+Numeração: 1
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 10/07/2002
+
+Nome: Igor Rabello
+Numeração: 16
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 28/04/1995
+
+Nome: Bruno Fuchs
+Numeração: 3
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 01/04/1999
+
+Nome: Jemerson
+Numeração: 34
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 24/08/1992
+
+Nome: Mauricio Lemos
+Numeração: 28
+Posição: Zagueiro
+Nacionalidade: Uruguai
+Data de Nascimento: 28/12/1995
+
+Nome: Guilherme Arana
+Numeração: 13
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 14/04/1997
+
+Nome: Rubens
+Numeração: 44
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 21/06/2001
+
+Nome: Renzo Saravia
+Numeração: 26
+Posição: Lateral Dir.
+Nacionalidade: Argentina
+Data de Nascimento: 16/06/1993
+
+Nome: Mariano
+Numeração: 25
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 23/06/1986
+
+Nome: OtávioVolante
+Numeração: 5
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 04/05/1994
+
+Nome: Rodrigo Battaglia
+Numeração: 21
+Posição: Volante
+Nacionalidade: Argentina
+Data de Nascimento: 12/07/1991
+
+Nome: Alan Franco
+Numeração: 23
+Posição: Meia Central
+Nacionalidade: Equador
+Data de Nascimento: 21/08/1998
+
+Nome: Patrick
+Numeração: 49
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 29/07/1992
+
+Nome: Edenilson
+Numeração: 8
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 18/12/1989
+
+Nome: Matías Zaracho
+Numeração: 15
+Posição: Meia Ofensivo
+Nacionalidade: Argentina
+Data de Nascimento: 10/03/1998
+
+Nome: Igor Gomes
+Numeração: 17
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 17/03/1999
+
+Nome: Hyoran
+Numeração: 20
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 25/05/1993
+
+Nome: Paulinho
+Numeração: 10
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 15/07/2000
+
+Nome: Cristian Pavón
+Numeração: 9
+Posição: Ponta Esquerda
+Nacionalidade: Argentina
+Data de Nascimento: 21/01/1996
+
+Nome: Pedrinho
+Numeração: 38
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 13/04/1998
+
+Nome: Hulk
+Numeração: 7
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 25/07/1986
+
+Nome: Eduardo Vargas
+Numeração: 11
+Posição: Centroavante
+Nacionalidade: Chile
+Data de Nascimento: 20/11/1989
+
+Nome: Alan Kardec
+Numeração: 14
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 12/01/1989
+
+Nome: Isaac
+Numeração: 41
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 26/03/2004
+
+Nome: Cadu
+Numeração: 42
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 24/05/2004

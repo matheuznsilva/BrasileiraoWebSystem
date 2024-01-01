@@ -1,0 +1,388 @@
+/* ---- CONTAINERS ---- */
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #d4d4d4;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.container-contato {
+  display: block;
+  flex-wrap: wrap;
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #d4d4d4;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.container h2,
+.container-contato h2 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.container-contato h1 {
+  text-align: left;
+  margin-bottom: 25px;
+}
+
+
+.container input[type="text"],
+.container input[type="password"],
+.container input[type="email"],
+.container input[type="tel"],
+.container input[type="date"],
+.container-contato input[type="text"],
+.container-contato input[type="password"],
+.container-contato input[type="email"],
+.container-contato input[type="tel"],
+.container-contato input[type="date"]{
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  box-sizing: border-box;
+}
+
+.container input[type="submit"], 
+.container-contato input[type="submit"] {
+  width: 100%;
+  padding: 15px;
+  background-color: black;
+  color:rgb(200,255,0);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.container input[type="submit"]:hover,
+.container-contato input[type="submit"]:hover {
+  background-color: black;
+}
+
+.container-personality {
+  display: flex;
+  flex-wrap: wrap;
+  width: auto;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin-top: 200px;
+  margin-bottom: 20px;
+}
+
+.container-personality h1 {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.container-profile {
+  max-width: 1800px;
+  margin: 0 auto;
+  margin-top: auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/*---- TOP NAV BAR ----*/
+
+.barra-navegacao {
+  max-width: 1500px;
+  margin: auto;
+}
+  
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/*---- LEFT NAV BAR ----*/
+
+.menu-lateral {
+  width: 80px;
+  height: 100%;
+  background-color: rgb(19,20,40);
+  padding: 40px 0 40px 1%;
+  box-shadow: 3px 0 0 rgb(255, 255, 255);
+  position: fixed;
+  top: 0px;
+  left: 0;
+  overflow: hidden;
+  transition: .2s;
+  z-index: 1001;
+}
+.menu-lateral ul {
+  list-style-type: none;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-lateral ul li{
+  margin-right: 10px;
+}
+
+.menu-lateral ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.menu-lateral:hover {
+  width: 300px;
+}
+
+.item-menu a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px 4%;
+  display: flex;
+  margin-bottom: 20px;
+  line-height: 60px;
+}
+
+.item-menu {
+  width: 100vh;
+  transition: .2s;
+}
+
+.item-menu:hover {
+  background-color: rgb(200,255,0);
+}
+
+#equipesSubMenu, 
+#partidaSubMenu,
+#atletaSubMenu {
+  display: none;
+}
+
+.submenu {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%; /* Posiciona o submenu ao lado direito do menu principal */
+  background-color: #fff; /* Cor de fundo do submenu */
+  border: 1px solid #ccc; /* Borda do submenu */
+  padding: 5px; /* Espaçamento interno do submenu */
+  z-index: 1; /* Garante que o submenu fique sobreposto a outros elementos */
+}
+
+.item-menu:hover .submenu {
+  display: block; /* Mostra o submenu quando o item do menu principal é passado com o mouse */
+}
+
+
+.txt-link {
+  margin-left: 40px;
+}
+
+/*---- RODAPÉ ----*/
+
+.rodape {
+  background-image: url('../img/Captura\ de\ tela\ de\ 2023-06-30\ 01-39-51.png');
+  background-position: center;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/*---- BANNER ----*/
+
+.banner{
+  height: 100vh;
+  background-image: url(../img/quilombo1820x607.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:contain;
+}
+.banner-pag{
+  height: 100vh;
+  background-color: rgb(230, 93, 2);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:contain;
+}
+
+.banner h1{
+  font-size: 4em;
+}
+
+.banner h1 span{
+  color: rgb(95, 95, 95);
+}
+
+/*---- BOTÕES ----*/
+
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.btn-expandir {
+  width: 100%;
+  padding-left: 10px;
+  padding-bottom: 30px;
+}
+
+.btn-expandir > i {
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.btn-contato button{
+  width: 120px;
+  height: 40px;
+  border: 0px;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  cursor: pointer;
+  transition: .7s;
+}
+
+.btn-body btt{
+  width: 120px;
+  height: 40px;
+  border: 0px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  transition: .7s;
+}
+
+.btn-contato button:hover,
+.btn-body btt:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+/**/
+
+.signup-link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.signup-link a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+.login-link {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.login-link a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+.imagem-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.personality {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.personality h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.personality p {
+  margin-bottom: 10px;
+}
+
+.personality img {
+  max-width: 100%;
+  height: 300px;
+  margin-bottom: 10px;
+}
+
+.banner {
+  height: 100vh;
+  background-image: url(../../static/imagens/estadio-mineirao-cruzeiro-flamengo-16072017_1kpiphuprmpe11kw8j2hb0v2c8.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.logo-img {
+  max-width: 75px; /* Define a largura máxima da imagem */
+  height: auto; /* Mantém a proporção da altura conforme a largura é ajustada */
+  display: block; /* Garante que a imagem não afete outros elementos em linha */
+  margin-right: 20px; /* Adiciona um espaçamento à direita da imagem, ajuste conforme necessário */
+  margin-left: 20px; /* Adiciona um espaçamento à direita da imagem, ajuste conforme necessário */
+}
+
+.logo-title {
+  font-size: 1.5rem; /* Adapte o tamanho da fonte conforme necessário */
+}
+
+.highlight {
+  /* Defina aqui a cor que deseja */
+  background-color: rgb(200,255,0);
+}
+
+.popup-container {
+  display: none;
+  position: fixed;
+  top: 0; /* Inicialmente esconde o popup acima do topo da página */
+  left: 0;
+  width: 100%;
+  height: calc(100% - 10vh); /* Altura da tela mais a altura do header */
+  justify-content: center;
+  align-items: flex-start; /* Alinha o popup ao topo */
+  transition: top 0.5s ease-in-out; /* Adiciona uma transição suave */
+  z-index: 999; /* Garante que o popup esteja atrás do header */
+}
+
+.popup-content {
+  background-color: #fff;
+  max-width: 300px;
+  margin: 20px auto; /* Centralizar o popup horizontalmente */
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.close {
+  position: absolute;
+  float: right;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.close:hover {
+  color: red;
+}
+

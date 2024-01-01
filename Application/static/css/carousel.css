@@ -1,0 +1,44 @@
+.carousel {
+  width: 100%;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.carousel-slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  overflow: hidden;
+}
+
+.slide img {
+  width: 100%;
+  display: block;
+  height: auto;
+  height: 900px; /* Altura desejada para as imagens */
+  object-fit: cover;
+}
+
+button.prev,
+button.next {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 30%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+button.prev {
+  left: 0;
+}
+
+button.next {
+  right: 0;
+}

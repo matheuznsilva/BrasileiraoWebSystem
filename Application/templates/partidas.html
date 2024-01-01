@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device=width, initial-scale=1.0">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/logoBr.png') }}" type="image/png" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+    <script src="{{ url_for('static', filename='javaScript/menu.js') }}"></script>
+    <script src="{{ url_for('static', filename='javaScript/calendar.js') }}"></script>
+
+    <link rel="stylesheet" href="{{url_for('static', filename='css/header.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/footer.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/container.css')}}">
+
+    <title>PARTIDAS</title>
+</head>
+<header id="header">
+    <div class="barra-navegacao">
+        <div class="flex">
+            <div id="title">
+                <h1>CAMPEONATO BRASILEIRO</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="{{ url_for('index') }}">INICIO</a></li>
+                    <li><a href="{{ url_for('classificacao') }}">CLASSIFICAÇÃO</a></li>
+                    <li><a href="{{ url_for('partidas') }}">PARTIDAS</a></li>
+                    <li><a href="{{ url_for('estatisticas') }}">ESTATISTICAS</a></li>
+                </ul>
+            </nav>
+            <div class="btn-contato">
+                <a href="{{ url_for('login') }}"><button>LOGIN</button></a>
+            </div>
+        </div>
+    </div>
+</header>
+<body>
+    <section>
+        <h2>Tabela de Jogos</h2>
+        <!-- Botões para avançar e retroceder as rodadas -->
+        <button onclick="previousRound()">Rodada Anterior</button>
+        <span id="roundNumber">{{ rodada_atual }}</span>
+        <button onclick="nextRound()">Próxima Rodada</button>
+
+        <!-- Tabela para os jogos da rodada -->
+        <table>
+            <thead>
+                <tr>
+                    <th>Dia/hora</th>
+                    <th>Mandante</th>
+                    <th>Gols</th>
+                    <th>X</th>
+                    <th>Gols</th>
+                    <th>Visitante</th>
+                    <th>Estádio</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for partida in partidas %}
+                    <tr>
+                        <td>{{ partida['DiaHora'] }}</td>
+                        <td>{{ partida['Mandante'] }}</td>
+                        <td>{{ partida['GolsMandante'] }}</td>
+                        <td>X</td>
+                        <td>{{ partida['GolsVisitante'] }}</td>
+                        <td>{{ partida['Visitante'] }}</td>
+                        <td>{{ partida['Estadio_Partida'] }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </section>
+</body>
+
+</body>
+<footer>
+  <div id="footer_content">
+      <div id="footer_contacts">
+        <img src="{{ url_for('static', filename='imagens/cbf-logo.png') }}" class="logo-img">
+          <h1>BRASILEIRÃO</h1>
+          <h1>2023</h1>
+      </div>
+      <div id="footer_social_media">
+          <a href="https://instagram.com/cbf_futebol" class="footer_link">
+              <i class="bi bi-instagram"></i>
+          </a>
+          <a href="https://www.facebook.com/cbf" class="footer_link">
+              <i class="bi bi-facebook"></i>
+          </a>
+          <a href="https://www.x.com/cbf_futebol" class="footer_link">
+              <i class="bi bi-twitter"></i>
+              <!--<i class="bi bi-twitter-x"></i>-->
+          </a>
+      </div>
+      <ul class="footer_list">
+          <li>
+              <h3>ESTATISTICAS</h3>
+          </li>
+          <li>
+              <a href="#" class="footer_link">Artilheiros</a>
+          </li>
+          <li>
+              <a href="#" class="footer_link">Cartões</a>
+          </li>
+          <li>
+              <a href="#" class="footer_link">Music</a>
+          </li>
+      </ul>
+      <ul class="footer_list">
+          <li>
+              <h3> Products </h3>
+          </li>
+          <li>
+              <a href="#" class="footer_link">App</a>
+          </li>
+          <li>
+              <a href="#" class="footer_link">Desktop</a>
+          </li>
+          <li>
+              <a href="#" class="footer_link">Cloud</a>
+          </li>
+      </ul>
+  </div>
+  <div id="footer_copyright">
+      Copyright (c) 2023 | MNS | TODOS OS DIREITOS RESERVADOS
+  </div>
+</footer>
+</html>

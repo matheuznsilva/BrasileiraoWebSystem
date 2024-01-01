@@ -1,0 +1,210 @@
+
+Nome: Lucas Perri
+Numeração: 12
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 10/12/1997
+
+Nome: Gatito Fernández
+Numeração: 1
+Posição: Goleiro
+Nacionalidade: Paraguai
+Data de Nascimento: 29/03/1988
+
+Nome: Igo Gabriel
+Numeração: 52
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 13/10/2001
+
+Nome: João Fernando
+Numeração: 57
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 01/03/2001
+
+Nome: Adryelson
+Numeração: 34
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 23/03/1998
+
+Nome: Bastos
+Numeração: 23
+Posição: Zagueiro
+Nacionalidade: Angola
+Data de Nascimento: 27/03/1991
+
+Nome: Victor Cuesta
+Numeração: 15
+Posição: Zagueiro
+Nacionalidade: Argentina
+Data de Nascimento: 19/11/1988
+
+Nome: Philipe Sampaio
+Numeração: 94
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 11/11/1994
+
+Nome: Sousa
+Numeração: 43
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 04/07/2001
+
+Nome: Hugo
+Numeração: 16
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 20/09/2001
+
+Nome: Marçal
+Numeração: 21
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 19/02/1989
+
+Nome: Mateo Ponte
+Numeração: 4
+Posição: Lateral Dir.
+Nacionalidade: Uruguai
+Data de Nascimento: 24/05/2003
+
+Nome: Rafael
+Numeração: 2
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 09/07/1990
+
+Nome: Leonel Di Placido
+Numeração: 24
+Posição: Lateral Dir.
+Nacionalidade: Argentina
+Data de Nascimento: 28/01/1994
+
+Nome: Marlon Freitas
+Numeração: 17
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 27/03/1995
+
+Nome: Danilo Barbosa
+Numeração: 5
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 28/02/1996
+
+Nome: JP Galvão
+Numeração: 31
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 07/05/2001
+
+Nome: Patrick de Paula
+Numeração: 8
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 08/09/1999
+
+Nome: Gabriel Pires
+Numeração: 14
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 18/09/1993
+
+Nome: Tchê Tchê
+Numeração: 6
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 30/08/1992
+
+Nome: Raí
+Numeração: 75
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 21/04/2002
+
+Nome: Lucas Fernandes
+Numeração: 18
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 20/09/1997
+
+Nome: Eduardo
+Numeração: 33
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 17/10/1989
+
+Nome: Jacob Montes
+Numeração: 32
+Posição: Meia Ofensivo
+Nacionalidade: Nicarágua
+Data de Nascimento: 20/10/1998
+
+Nome: Luis Henrique
+Numeração: 11
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 14/12/2001
+
+Nome: Diego Hernández
+Numeração: 77
+Posição: Ponta Esquerda
+Nacionalidade: Uruguai
+Data de Nascimento: 22/06/2000
+
+Nome: Victor Sá
+Numeração: 7
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 27/03/1994
+
+Nome: Matías Segovia
+Numeração: 10
+Posição: Ponta Direita
+Nacionalidade: Paraguai
+Data de Nascimento: 04/01/2003
+
+Nome: Carlos Alberto
+Numeração: 27
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 14/04/2002
+
+Nome: Júnior Santos
+Numeração: 37
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 11/10/1994
+
+Nome: Matheus Nascimento
+Numeração: 90
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 03/03/2004
+
+Nome: Tiquinho Soares
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 17/01/1991
+
+Nome: Diego Costa
+Numeração: 19
+Posição: Centroavante
+Nacionalidade: Espanha
+Data de Nascimento: 07/10/1988
+
+Nome: Valentín Adamo
+Numeração: 71
+Posição: Centroavante
+Nacionalidade: Uruguai
+Data de Nascimento: 04/05/2002
+
+Nome: Janderson
+Numeração: 39
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 06/05/1999

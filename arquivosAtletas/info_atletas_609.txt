@@ -1,0 +1,180 @@
+
+Nome: Rafael Cabral
+Numeração: 1
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 20/05/1990
+
+Nome: Gabriel Mesquita
+Numeração: 91
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 14/09/1998
+
+Nome: Anderson Paixão
+Numeração: 98
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 05/03/1998
+
+Nome: Lucas Oliveira
+Numeração: 6
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 02/02/1996
+
+Nome: Neris
+Numeração: 27
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 17/06/1992
+
+Nome: João Marcelo
+Numeração: 43
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 13/06/2000
+
+Nome: Luciano Castán
+Numeração: 4
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 13/09/1989
+
+Nome: Marlon
+Numeração: 3
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 20/05/1997
+
+Nome: Kaiki
+Numeração: 14
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 08/03/2003
+
+Nome: William
+Numeração: 12
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 03/04/1995
+
+Nome: Wesley Gasolina
+Numeração: 2
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 13/03/2000
+
+Nome: Helibelton Palacios
+Numeração: 24
+Posição: Lateral Dir.
+Nacionalidade: Colômbia
+Data de Nascimento: 11/06/1993
+
+Nome: Matheus Jussa
+Numeração: 18
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 22/03/1996
+
+Nome: Filipe Machado
+Numeração: 23
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 20/01/1996
+
+Nome: Lucas Silva
+Numeração: 16
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 16/02/1993
+
+Nome: Ramiro
+Numeração: 17
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 22/05/1993
+
+Nome: Fernando Henrique
+Numeração: 15
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 01/06/2001
+
+Nome: Ian Luccas
+Numeração: 25
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 11/02/2003
+
+Nome: Matheus Pereira
+Numeração: 96
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 05/05/1996
+
+Nome: Mateus Vital
+Numeração: 7
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 12/02/1998
+
+Nome: Nikão
+Numeração: 10
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 29/07/1992
+
+Nome: Wesley
+Numeração: 11
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 30/03/1999
+
+Nome: Arthur Gomes
+Numeração: 19
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 03/07/1998
+
+Nome: Bruno Rodrigues
+Numeração: 9
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 07/03/1997
+
+Nome: Stênio
+Numeração: 22
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 05/04/2003
+
+Nome: Paulo Vitor
+Numeração: 30
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 24/06/1999
+
+Nome: Rafael Bilu
+Numeração: 31
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 21/04/1999
+
+Nome: Robert
+Numeração: 80
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 13/04/2005
+
+Nome: Rafael Elias
+Numeração: 40
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 12/04/1999
+
+Nome: Gilberto
+Numeração: 21
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 05/06/1989

@@ -1,0 +1,264 @@
+
+Nome: Jandrei 
+Numeração: 93
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 01/03/1993 
+
+Nome: Rafael
+Numeração: 23
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 23/06/1989 
+
+Nome: Felipe Alves
+Numeração: 1
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 21/05/1988 
+
+Nome: Young
+Numeração: 50
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 07/03/2002 
+
+Nome: Lucas Beraldo
+Numeração: 35
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 24/11/2003 
+
+Nome: Diego Costa
+Numeração: 4
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 21/07/1999 
+
+Nome: Alan Franco
+Numeração: 28
+Posição: Zagueiro
+Nacionalidade: Argentina
+Data de Nascimento: 11/10/1996 
+
+Nome: Nahuel Ferraresi
+Numeração: 3
+Posição: Zagueiro
+Nacionalidade: Venezuela
+Data de Nascimento: 19/11/1998 
+
+Nome: Robert Arboleda
+Numeração: 5
+Posição: Zagueiro
+Nacionalidade: Equador
+Data de Nascimento: 22/10/1991 
+
+Nome: Walce
+Numeração: 43
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 02/02/1999 
+
+Nome: Matheus Belém
+Numeração: 44
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 13/03/2003 
+
+Nome: Welington
+Numeração: 6
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 19/02/2001 
+
+Nome: Caio Paulista
+Numeração: 38
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 11/05/1998 
+
+Nome: Patryck
+Numeração: 36
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 18/01/2003 
+
+Nome: Igor Vinícius
+Numeração: 2
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 01/04/1997 
+
+Nome: João Moreira
+Numeração: 30
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 21/05/2004 
+
+Nome: Nathan Mendes
+Numeração: 45
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 19/08/2002 
+
+Nome: Raí Ramos
+Numeração: 34
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 06/05/1994
+
+Nome: Rafinha
+Numeração: 13
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 07/09/1985
+
+Nome: Pablo Maia
+Numeração: 29
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 10/01/2002 
+
+Nome: Luan
+Numeração: 8
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 14/05/1999 
+
+Nome: Gabriel Neves
+Numeração: 20
+Posição: Volante
+Nacionalidade: Uruguai
+Data de Nascimento: 11/08/1997 
+
+Nome: Jhegson Méndez
+Numeração: 21
+Posição: Volante
+Nacionalidade: Equador
+Data de Nascimento: 26/04/1997 
+
+Nome: Felipe Negrucci
+Numeração: 46
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 14/05/2004 
+
+Nome: Rodrigo Nestor
+Numeração: 11
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 09/08/2000 
+
+Nome: Rodriguinho
+Numeração: 18
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 16/03/2004 
+
+Nome: Talles Costa
+Numeração: 37
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 02/08/2002 
+
+Nome: Alisson
+Numeração: 25
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 25/06/1993 
+
+Nome: Pedro Vilhena
+Numeração: 47
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 18/02/2002 
+
+Nome: Giuliano Galoppo
+Numeração: 14
+Posição: Meia Ofensivo
+Nacionalidade: Argentina
+Data de Nascimento: 18/06/1999 
+
+Nome: James Rodríguez
+Numeração: 19
+Posição: Meia Ofensivo
+Nacionalidade: Colômbia
+Data de Nascimento: 12/07/1991 
+
+Nome: Michel Araújo
+Numeração: 15
+Posição: Meia Ofensivo
+Nacionalidade: Uruguai
+Data de Nascimento: 28/09/1996 
+
+Nome: Wellington Rato
+Numeração: 27
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 28/06/1992 
+
+Nome: Marcos Paulo
+Numeração: 32
+Posição: Ponta Esquerda
+Nacionalidade: Portugal
+Data de Nascimento: 01/02/2001 
+
+Nome: David
+Numeração: 22
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 17/10/1995 
+
+Nome: William Gomes
+Numeração: 39
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 15/03/2006 
+
+Nome: Lucas Moura
+Numeração: 7
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 13/08/1992 
+
+Nome: Caio Matheus
+Numeração: 33
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 19/02/2004 
+
+Nome: Jonathan Calleri
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Argentina
+Data de Nascimento: 23/09/1993 
+
+Nome: Erison
+Numeração: 49
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 13/04/1999 
+
+Nome: Luciano
+Numeração: 10
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 18/05/1993 
+
+Nome: Juan
+Numeração: 31
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 07/03/2002 
+
+Nome: Alexandre Pato
+Numeração: 12
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 02/09/1989
+
+Nome: Talles Wander
+Numeração: 26
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 24/10/2003

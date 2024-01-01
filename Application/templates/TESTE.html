@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- ... -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="{{ url_for('static', filename='javaScript/TESTEjs') }}"></script>
+</head>
+<body>
+    <!-- ... -->
+    <section>
+        <div class="container-profile">
+            <!-- ... -->
+            <div class="container">
+                <!-- Utilize um menu de seleção para listar as partidas -->
+                <label for="partidas">Selecione uma partida:</label>
+                <select id="partidas" name="partidas" onchange="showDetails()">
+                    <option value="1">16/04/2023-16:00 Palmeiras x Cuiabá</option>
+                    <option value="2">20/04/2023-18:00 Flamengo x Corinthians</option>
+                    <!-- Adicione mais partidas conforme necessário -->
+                </select>
+
+                <!-- Div para exibir os detalhes da partida -->
+                <div id="detalhesPartida">
+                    <label for="EquipeMandante">Equipe mandante:</label>
+                    <input type="text" id="EquipeMandante" name="EquipeMandante" required>
+                    
+                    <label for="EquipeVisitante">Equipe visitante:</label>
+                    <input type="text" id="EquipeVisitante" name="EquipeVisitante" required>
+                    
+                    <label for="Estadio">Estádio:</label>
+                    <input type="text" id="EstadioPartida" name="EstadioPartida" required>
+                    
+                    <label for="DataTime">Data e hora:</label>
+                    <input type="datetime-local" id="DataTime" name="DataTime">
+
+                    <label for="Placar">Placar:</label>
+                    <input type="text" id="Placar" name="Placar" required>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ... -->
+</body>
+</html>

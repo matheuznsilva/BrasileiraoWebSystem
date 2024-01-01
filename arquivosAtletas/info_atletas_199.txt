@@ -1,0 +1,186 @@
+
+Nome: Matheus Donelli
+Numeração: 32
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 17/05/2002
+
+Nome: Carlos Miguel
+Numeração: 22
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 09/10/1998
+
+Nome: Cássio
+Numeração: 12
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 06/06/1987
+
+Nome: Lucas Veríssimo
+Numeração: 3
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 02/07/1995
+
+Nome: Bruno Méndez
+Numeração: 25
+Posição: Zagueiro
+Nacionalidade: Uruguai
+Data de Nascimento: 10/09/1999
+
+Nome: Caetano
+Numeração: 14
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 24/06/1999
+
+Nome: Gil
+Numeração: 4
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 12/06/1987
+
+Nome: Renato Santos
+Numeração: 46
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 11/10/2004
+
+Nome: Matheus Bidu
+Numeração: 21
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 04/05/1999
+
+Nome: Fábio Santos
+Numeração: 6
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 16/09/1985
+
+Nome: Fagner
+Numeração: 23
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 11/06/1989
+
+Nome: Rafael Ramos
+Numeração: 2
+Posição: Lateral Dir.
+Nacionalidade: Portugal
+Data de Nascimento: 09/01/1995
+
+Nome: Fausto Vera
+Numeração: 5
+Posição: Volante
+Nacionalidade: Argentina
+Data de Nascimento: 26/03/2000
+
+Nome: Roni
+Numeração: 29
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 15/04/1999
+
+Nome: Gabriel Moscardo
+Numeração: 44
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 28/09/2005
+
+Nome: Víctor Cantillo
+Numeração: 24
+Posição: Volante
+Nacionalidade: Colômbia
+Data de Nascimento: 15/10/1993
+
+Nome: Maycon
+Numeração: 7
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 15/07/1997
+
+Nome: Renato Augusto
+Numeração: 8
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 08/02/1988
+
+Nome: Giuliano
+Numeração: 20
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 31/05/1990
+
+Nome: Paulinho
+Numeração: 15
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 25/07/1988
+
+Nome: Matías Rojas
+Numeração: 10
+Posição: Meia Ofensivo
+Nacionalidade: Paraguai
+Data de Nascimento: 03/11/1995
+
+Nome: Matheus Araújo
+Numeração: 30
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 22/05/2002
+
+Nome: Ruan Oliveira
+Numeração: 33
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 23/03/2000
+
+Nome: Pedro
+Numeração: 27
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 05/02/2006
+
+Nome: Wesley
+Numeração: 36
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 05/03/2005
+
+Nome: Ángel Romero
+Numeração: 11
+Posição: Ponta Esquerda
+Nacionalidade: Paraguai
+Data de Nascimento: 04/07/1992
+
+Nome: Biro
+Numeração: 26
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 20/04/2004
+
+Nome: Gustavo Mosquito
+Numeração: 19
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 07/09/1997
+
+Nome: Yuri Alberto
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 18/03/2001
+
+Nome: Giovane
+Numeração: 17
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 24/11/2003
+
+Nome: Felipe Augusto
+Numeração: 41
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 18/02/2004

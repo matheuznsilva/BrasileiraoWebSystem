@@ -1,0 +1,192 @@
+
+Nome: Pedro Rangel
+Numeração: 22
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 29/06/2000
+
+Nome: Fábio
+Numeração: 1
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 30/09/1980
+
+Nome: Vitor Eudes
+Numeração: 98
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 21/10/1998
+
+Nome: Nino
+Numeração: 33
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 10/04/1997
+
+Nome: Marlon
+Numeração: 4
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 07/09/1995
+
+Nome: Manoel
+Numeração: 26
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 26/02/1990
+
+Nome: Felipe Melo
+Numeração: 30
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 26/06/1983
+
+Nome: David Braz
+Numeração: 44
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 21/05/1987
+
+Nome: Felipe Andrade
+Numeração: 13
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 29/05/2002
+
+Nome: Marcelo
+Numeração: 12
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 12/05/1988
+
+Nome: Jorge
+Numeração: 6
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 28/03/1996
+
+Nome: Diogo Barbosa
+Numeração: 16
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 17/08/1992
+
+Nome: Guga
+Numeração: 23
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 29/08/1998
+
+Nome: Samuel Xavier
+Numeração: 2
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 06/06/1990
+
+Nome: André
+Numeração: 7
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 16/07/2001
+
+Nome: Alexsander
+Numeração: 5
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 08/10/2003
+
+Nome: Thiago Santos
+Numeração: 29
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 05/09/1989
+
+Nome: Martinelli
+Numeração: 8
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 05/10/2001
+
+Nome: Daniel
+Numeração: 55
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 11/01/1996
+
+Nome: Leonardo Fernández
+Numeração: 17
+Posição: Meia Ofensivo
+Nacionalidade: Uruguai
+Data de Nascimento: 08/11/1998
+
+Nome: Lima
+Numeração: 45
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 11/06/1996
+
+Nome: Ganso
+Numeração: 10
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 12/10/1989
+
+Nome: Arthur
+Numeração: 28
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 24/02/2005
+
+Nome: Keno
+Numeração: 11
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 10/09/1989
+
+Nome: Giovanni
+Numeração: 37
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 31/01/2002
+
+Nome: Isaac
+Numeração: 32
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 24/04/2004 
+
+Nome: Jhon Arias
+Numeração: 21
+Posição: Ponta Direita
+Nacionalidade: Colômbia
+Data de Nascimento: 21/09/1997
+
+Nome: Yony González
+Numeração: 15
+Posição: Ponta Direita
+Nacionalidade: Colômbia
+Data de Nascimento: 11/07/1994
+
+Nome: John Kennedy
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 18/05/2002
+
+Nome: Germán Cano
+Numeração: 14
+Posição: Centroavante
+Nacionalidade: Argentina
+Data de Nascimento: 02/02/1988
+
+Nome: Lelê
+Numeração: 18
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 01/10/1997
+
+Nome: Kauã Elias
+Numeração: 39
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 28/03/2006

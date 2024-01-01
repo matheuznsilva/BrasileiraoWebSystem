@@ -1,0 +1,186 @@
+
+Nome: Gabriel Grando
+Numeração: 12
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 29/03/2000
+
+Nome: Felipe Scheibig
+Numeração: 41
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 08/03/2000
+
+Nome: Caíque
+Numeração: 31
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 31/07/1997
+
+Nome: Rodrigo Ely
+Numeração: 5
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 03/11/1993
+
+Nome: Walter Kannemann
+Numeração: 4
+Posição: Zagueiro
+Nacionalidade: Argentina
+Data de Nascimento: 14/03/1991
+
+Nome: Bruno Alves
+Numeração: 34
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 16/04/1991
+
+Nome: Bruno Uvini
+Numeração: 15
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 03/06/1991
+
+Nome: Gustavo Martins
+Numeração: 53
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 11/08/2002
+
+Nome: Natã
+Numeração: 36
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 05/06/2001
+
+Nome: Pedro Geromel
+Numeração: 3
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 21/09/1985
+
+Nome: Cuiabano
+Numeração: 54
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 16/02/2003
+
+Nome: Reinaldo
+Numeração: 6
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 28/09/1989
+
+Nome: Fábio
+Numeração: 2
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 09/07/1990
+
+Nome: João Pedro
+Numeração: 18
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 15/11/1996
+
+Nome: Mathías Villasanti
+Numeração: 20
+Posição: Volante
+Nacionalidade: Paraguai
+Data de Nascimento: 24/01/1997
+
+Nome: Ronald
+Numeração: 35
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 11/02/2003
+
+Nome: Lucas Milla
+Numeração: 45
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 28/01/2003
+
+Nome: Felipe Carballo
+Numeração: 8
+Posição: Meia Central
+Nacionalidade: Uruguai
+Data de Nascimento: 04/10/1996
+
+Nome: Pepê
+Numeração: 23
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 06/01/1998
+
+Nome: Gustavinho
+Numeração: 17
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 29/10/2001
+
+Nome: Franco Cristaldo
+Numeração: 19
+Posição: Meia Ofensivo
+Nacionalidade: Argentina
+Data de Nascimento: 15/08/1996
+
+Nome: Nathan
+Numeração: 14
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 13/03/1996
+
+Nome: Luan
+Numeração: 7
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 27/03/1993
+
+Nome: Ferreirinha
+Numeração: 10
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 31/12/1997
+
+Nome: Lucas Besozzi
+Numeração: 22
+Posição: Ponta Esquerda
+Nacionalidade: Argentina
+Data de Nascimento: 22/01/2003
+
+Nome: Juan Iturbe
+Numeração: 21
+Posição: Ponta Esquerda
+Nacionalidade: Paraguai
+Data de Nascimento: 04/06/1993
+
+Nome: Jhonata Robert
+Numeração: 25
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 26/10/1999
+
+Nome: Everton Galdino
+Numeração: 13
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 17/03/1997
+
+Nome: João Pedro
+Numeração: 11
+Posição: Centroavante
+Nacionalidade: Itália
+Data de Nascimento: 09/03/1992
+
+Nome: Luis Suárez
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Uruguai
+Data de Nascimento: 24/01/1987
+
+Nome: André
+Numeração: 77
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 17/12/2001

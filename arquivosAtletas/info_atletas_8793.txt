@@ -1,0 +1,198 @@
+
+Nome: Cleiton
+Numeração: 1
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 19/08/1997 
+
+Nome: Lucão
+Numeração: 40
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 26/02/2001 
+
+Nome: Maycon
+Numeração: 12
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 08/11/1998 
+
+Nome: Léo Ortiz
+Numeração: 3
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 03/01/1996 
+
+Nome: Lucas Cunha
+Numeração: 20
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 23/01/1997 
+
+Nome: Luan Patrick
+Numeração: 30
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 20/01/2002 
+
+Nome: Leonardo Realpe
+Numeração: 2
+Posição: Zagueiro
+Nacionalidade: Equador
+Data de Nascimento: 26/02/2001 
+
+Nome: Eduardo Santos
+Numeração: 26
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 28/11/1997 
+
+Nome: Lucas Rafael
+Numeração: 45
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 25/03/1998 
+
+Nome: Cipriano
+Numeração: 38
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 09/11/2002 
+
+Nome: Luan Cândido
+Numeração: 36
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 02/02/2001 
+
+Nome: Juninho Capixaba
+Numeração: 29
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 06/07/1997 
+
+Nome: Guilherme
+Numeração: 31
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 14/02/2002 
+
+Nome: Andrés Hurtado
+Numeração: 34
+Posição: Lateral Dir.
+Nacionalidade: Equador
+Data de Nascimento: 23/12/2001 
+
+Nome: Aderlan
+Numeração: 13
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 18/08/1990 
+
+Nome: Jadsom Silva
+Numeração: 5
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 20/05/2001 
+
+Nome: Raul
+Numeração: 23
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 11/07/1996 
+
+Nome: Matheus Fernandes
+Numeração: 35
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 30/06/1998 
+
+Nome: Eric Ramires
+Numeração: 7
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 10/08/2000 
+
+Nome: Lucas Evangelista
+Numeração: 8
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 06/05/1995 
+
+Nome: Bruninho
+Numeração: 17
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 14/03/2003 
+
+Nome: Gustavinho
+Numeração: 22
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 23/04/2004
+
+Nome: Vitinho
+Numeração: 28
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 01/04/1999 
+
+Nome: Henry Mosquera
+Numeração: 16
+Posição: Ponta Esquerda
+Nacionalidade: Colômbia
+Data de Nascimento: 15/11/2001 
+
+Nome: Sorriso
+Numeração: 27
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 23/02/2001 
+
+Nome: Talisson
+Numeração: 21
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 21/05/2002 
+
+Nome: Helinho
+Numeração: 11
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 25/04/2000 
+
+Nome: Matheus Gonçalves
+Numeração: 25
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 18/08/2005 
+
+Nome: Ignacio Laquintana
+Numeração: 33
+Posição: Ponta Direita
+Nacionalidade: Uruguai
+Data de Nascimento: 01/02/1999 
+
+Nome: Kawê
+Numeração: 39
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 22/06/2002 
+
+Nome: Alerrandro
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 12/01/2000 
+
+Nome: Thiago Borbas
+Numeração: 18
+Posição: Centroavante
+Nacionalidade: Uruguai
+Data de Nascimento: 07/04/2002 
+
+Nome: Eduardo Sasha
+Numeração: 19
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 24/02/1992

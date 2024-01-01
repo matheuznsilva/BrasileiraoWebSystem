@@ -1,0 +1,417 @@
+15/04/2023-16:00 Palmeiras 2 1 Cuiabá
+15/04/2023-16:00 América-MG 0 3 Fluminense
+15/04/2023-18:30 Botafogo 2 1 São Paulo
+15/04/2023-18:30 Red Bull 2 1 Bragantino Bahia
+15/04/2023-18:30 Athletico-PR 2 0 Goiás
+15/04/2023-18:30 Fortaleza 1 1 Internacional
+15/04/2023-21:00 Atlético-MG 1 2 Vasco
+16/04/2023-16:00 Flamengo 3 0 Coritiba
+16/04/2023-16:00 Corinthians 2 0 Cruzeiro
+16/04/2023-18:30 Grêmio 1 0 Santos
+
+22/04/2023-16:00 Fluminense 2 0 Athletico-PR
+22/04/2023-18:30 São Paulo 3 0 América-MG
+22/04/2023-18:30 Cuiabá 1 1 Red Bull Bragantino
+22/04/2023-18:30 Cruzeiro 1 0 Grêmio
+23/04/2023-11:00 Internacional 2 1 Flamengo
+23/04/2023-16:00 Vasco 2 2 Palmeiras
+23/04/2023-16:00 Santos 0 0 Atlético-MG
+23/04/2023-18:30 Coritiba 0 3 Fortaleza
+23/04/2023-19:00 Goiás 3 1 Corinthians
+24/04/2023-20:00 Bahia 1 2 Botafogo
+
+29/04/2023-16:30 Coritiba 1 1 São Paulo
+29/04/2023-16:30 Fortaleza 4 2 Fluminense
+29/04/2023-18:30 Palmeiras 2 1 Corinthians
+29/04/2023-18:30 Santos 3 2 América-MG
+29/04/2023-18:30 Red Bull Bragantino 0 3 Cruzeiro
+29/04/2023-21:00 Atlético-MG 2 1 Athletico-PR
+30/04/2023-16:00 Flamengo 2 3 Botafogo
+30/04/2023-18:30 Internacional 1 0 Goiás
+30/04/2023-18:30 Cuiabá 1 2 Grêmio
+01/05/2023-20:00 Vasco 0 1 Bahia
+
+06/05/2023-16:00 Cruzeiro 2 1 Santos
+06/05/2023-21:00 Fluminense 1 1 Vasco
+07/05/2023-11:00 América-MG 1 2 Cuiabá
+07/05/2023-16:00 São Paulo 2 0 Internacional
+07/05/2023-16:00 Athletico-PR 2 1 Flamengo
+07/05/2023-16:00 Bahia 3 1 Coritiba
+07/05/2023-18:30 Botafogo 2 0 Atlético-MG
+07/05/2023-18:30 Corinthians 1 1 Fortaleza
+07/05/2023-18:30 Goiás 0 5 Palmeiras
+08/05/2023-20:00 Grêmio 3 3 Red Bull Bragantino
+
+10/05/2023-19:00 Santos 3 0 Bahia
+10/05/2023-19:00 Red Bull Bragantino 2 2 América-MG
+10/05/2023-19:00 Internacional 0 2 Ahtletico-PR
+10/05/2023-20:00 Flamengo 2 0 Goiás
+10/05/2023-20:00 Cuiabá 0 X 4 Atlético-MG
+10/05/2023-21:30 Palmeiras 4 1 Grêmio
+10/05/2023-21:30 Cruzeiro 0 2 Fluminense
+11/05/2023-19:00 Botafogo 3 0 Corinthians
+11/05/2023-19:00 Coritiba 1 1 Vasco
+11/05/2023-20:00 Fortaleza 0 0 São Paulo
+
+13/05/2023-16:00 Bahia 2 3 Flamengo
+13/05/2023-18:30 Fluminense 2 0 Cuiabá
+13/05/2023-18:30 Palmeiras 1 1 Red Bull Bragantino
+13/05/2023-21:00 Atlético-MG 2 0 Internacional
+14/05/2023-16:00 Vasco 0 1 Santos
+14/05/2023-16:00 Corinthians 1 1 São Paulo
+14/05/2023-16:00 Grêmio 0 0 Fortaleza
+14/05/2023-18:30 Goiás 2 1 Botafogo
+14/05/2023-18:30 Athletico-PR 3 2 Coritiba
+14/05/2023-18:30 América-MG 0 4 Cruzeiro
+
+20/05/2023-16:00 Bahia 1 1 Goiás
+20/05/2023-18:30 Botafogo 1 0 Fluminense
+20/05/2023-18:30 São Paulo 4 2 Vasco
+20/05/2023-18:30 Red Bull Bragantino 2 0 Athletico-18:30PR
+20/05/2023-18:30 Coritiba 1 2 Atlético-18:30MG
+20/05/2023-18:30 América-MG 2 1 Fortaleza
+20/05/2023-21:00 Santos 0 0 Palmeiras
+21/05/2023-16:00 Flamengo 1 0 Corinthians
+21/05/2023-18:30 Grêmio 3 1 Internacional
+22/05/2023-21:00 Cruzeiro 0 1 Cuiabá
+
+27/05/2023-16:00 Athletico-PR 1 2 Grêmio
+27/05/2023-16:00 Fortaleza 2 0 Vasco
+27/05/2023-18:30 Flamengo 1 1 Cruzeiro
+27/05/2023-18:30 Cuiabá 1 1 Coritiba
+27/05/2023-21:00 São Paulo 2 1 Goiás
+28/05/2023-16:00 Corinthians 2 0 Fluminense
+28/05/2023-16:00 Internacional 2 0 Bahia
+28/05/2023-18:30 Red Bull Bragantino 2 0 Santos
+28/05/2023-18:30 Atlético-MG 1 1 Palmeiras
+28/05/2023-19:00 Botafogo 2 0 América-MG
+
+03/06/2023-16:00 Fortaleza 0 0 Bahia
+03/06/2023-18:30 Cruzeiro 0 1 Atlético-MG
+03/06/2023-18:30 Athletico-PR 1 0 Botafogo
+03/06/2023-18:30 América-MG 2 0 Corinthians
+03/06/2023-21:00 Santos 1 1 Internacional
+04/06/2023-16:00 Fluminense 2 1 Red Bull Bragantino
+04/06/2023-16:00 Grêmio 2 1 São Paulo
+04/06/2023-18:30 Palmeiras 3 1 Coritiba
+04/06/2023-18:30 Goiás 0 1 Cuiabá
+04/06/2023-21:00 Vasco 1 4 Flamengo
+
+10/06/2023-16:00 Coritiba 0 0 Santos
+10/06/2023-18:30 Corinthians 1 1 Cuiabá
+10/06/2023-18:30 Atlético-MG 1 1 Red Bull Bragantino
+10/06/2023-18:30 Bahia 2 2 Cruzeiro
+10/06/2023-21:00 Botafogo 2 0 Fortaleza
+11/06/2023-11:00 América-MG 2 2 Athletico-PR
+11/06/2023-16:00 São Paulo 0 2 Palmeiras
+11/06/2023-16:00 Internacional 2 1 Vasco
+11/06/2023-18:30 Flamengo 3 0 Grêmio
+11/06/2023-18:30 Goiás 2 2 Fluminense
+
+21/06/2023-19:00 São Paulo 2 1 Athletico-PR
+21/06/2023-19:00 Cruzeiro 0 1 Fortaleza
+21/06/2023-20:00 Santos 0 2 Corinthians
+21/06/2023-21:30 Fluminense 1 1 Atlético-MG
+21/06/2023-21:30 Bahia 1 0 Palmeiras
+22/06/2023-19:00 Grêmio 3 1 América-MG
+22/06/2023-20:00 Vasco 0 1 Goiás
+22/06/2023-20:00 Coritiba 0 1 Internacional
+22/06/2023-20:00 Cuiabá 0 1 Botafogo
+22/06/2023-21:30 Red Bull Bragantino 4 0 Flamengo
+
+24/06/2023-16:00 Athletico-PR 1 0 Corinthians
+24/06/2023-18:30 Fluminense 2 1 Bahia
+24/06/2023-18:30 Fortaleza 2 1 Atlético-MG
+24/06/2023-21:00 Cruzeiro 1 0 São Paulo
+25/06/2023-16:00 Palmeiras 0 1 Botafogo
+25/06/2023-16:00 Grêmio 5 1 Coritiba
+25/06/2023-18:30 Santos 2 3 Flamengo
+25/06/2023-18:30 Red Bull Bragantino 2 0 Goiás
+25/06/2023-18:30 América-MG 1 2 Internacional
+26/06/2023-21:00 Vasco 1 0 Cuiabá
+
+01/07/2023-16:00 São Paulo 1 0 Fluminense
+01/07/2023-18:30 Flamengo 2 0 Fortaleza
+01/07/2023-18:30 Bahia 1 2 Grêmio
+01/07/2023-21:00 Internacional 0 0 Cruzeiro
+02/07/2023-11:00 Corinthians 0 1 Red Bull Bragantino
+02/07/2023-16:00 Botafogo 2 0 Vasco
+02/07/2023-16:00 Atlético-MG 2 2 América-MG
+02/07/2023-16:00 Athletico-PR 2 2 Palmeiras
+02/07/2023-18:30 Cuiabá 3 0 Santos
+03/07/2023-21:00 Goiás 1 2 Coritiba
+
+08/07/2023-16:00 Vasco 0 1 Cruzeiro
+08/07/2023-16:00 Cuiabá 1 1 Bahia
+08/07/2023-18:30 Atlético-MG 0 1 Corinthians
+08/07/2023-18:30 Coritiba 3 1 América-MG
+08/07/2023-21:00 Palmeiras 1 1 Flamengo
+09/07/2023-11:00 Santos 4 3 Goiás
+09/07/2023-16:00 Fluminense 2 0 Internacional
+09/07/2023-16:00 Red Bull Bragantino 0 0 São Paulo
+09/07/2023-18:30 Grêmio 0 2 Botafogo
+09/07/2023-18:30 Fortaleza 1 0 Athletico-PR
+
+15/07/2023-21:00 Botafogo 2 0 Red Bull Bragantino
+16/07/2023-11:00 Cruzeiro 0 0 Coritiba
+16/07/2023-16:00 Fluminense 0 0 Flamengo
+16/07/2023-16:00 São Paulo 4×1 Santos
+16/07/2023-16:00 Fortaleza 0 1 Cuiabá
+16/07/2023-18:30 Internacional 0 0 Palmeiras
+16/07/2023-18:30 Athletico-PR 2 0 Bahia
+17/07/2023-20:00 Goiás 0 0 Atlético-MG
+18/09/2023-21:00 Corinthians 4 4 Grêmio
+25/09/2023-20:00 América-MG 0 1 Vasco
+
+22/07/2023-16:00 Flamengo 1 1 América MG
+22/07/2023-16:00 Palmeiras 3 1 Fortaleza
+22/07/2023-18:30 Bahia 0 0 Corinthians
+22/07/2023-18:30 Cuiabá 2 1 São Paulo
+22/07/2023-21:00 Grêmio 1 0 Atlético-MG
+23/07/2023-16:00 Santos 2 2 Botafogo
+23/07/2023-16:00 Red Bull Bragantino 0 0 Internacional
+23/07/2023-16:00 Cruzeiro 0 1 Goiás
+23/07/2023-18:30 Vasco 0 2 Athletico-PR
+24/07/2023-19:00 Coritiba 2 0 Fluminense
+
+29/07/2023-16:00 Fluminense 1 0 Santos
+29/07/2023-16:00 Internacional 1 2 Cuiabá
+29/07/2023-16:00 Athletico-PR 3 3 Cruzeiro
+29/07/2023-18:30 Corinthians 3 1 Vasco
+29/07/2023-18:30 Fortaleza 0 3 Red Bull Bragantino
+29/07/2023-16:00 Atlético-MG 1 2 Flamengo
+30/07/2023-16:00 São Paulo 0 0 Bahia
+30/07/2023-18:30 Botafogo 4 1 Coritiba
+30/07/2023-18:30 América-MG 1 4 Palmeiras
+30/07/2023-18:30 Goiás 1 1 Grêmio
+
+05/08/2023-16:00 Santos 1 1 Athletico-PR
+05/08/2023-18:30 Goiás 1 0 Fortaleza
+05/08/2023-18:30 Internacional 2 2 Corinthians
+05/08/2023-20:00 Fluminense 2 1 Palmeiras
+06/08/2023-16:00 Vasco 1 0 Grêmio
+06/08/2023-16:00 São Paulo 0 0 Atlético-MG
+06/08/2023-18:30 Cruzeiro 0 0 Botafogo
+06/08/2023-18:30 Coritiba 0 1 Red Bull Bragantino
+06/08/2023-18:30 Bahia 3 1 América-MG
+06/08/2023-21:00 Cuiabá 3 0 Flamengo
+
+12/08/2023-21:00 Botafogo 3 1 Internacional
+13/08/2023-11:00 Atlético-MG 1 0 Bahia
+13/08/2023-16:00 Corinthians 3 1 Coritiba
+13/08/2023-16:00 Grêmio 2 1 Fluminense
+13/08/2023-16:00 América-MG 0 1 Goiás
+13/08/2023-18:30 Flamengo 1 1 São Paulo
+13/08/2023-18:30 Fortaleza 4 0 Santos
+14/08/2023-19:00 Palmeiras 1 0 Cruzeiro
+14/08/2023-21:00 Red Bull Bragantino 1 1 Vasco
+15/08/2023-20:00 Athletico-PR 2 0 Cuiabá
+
+19/08/2023-16:00 São Paulo 0 0 Botafogo
+19/08/2023-16:00 Internacional 0 1 Fortaleza
+19/08/2023-18:30 Fluminense 3 1 América-MG
+19/08/2023-18:30 Cuiabá 0 2 Palmeiras
+19/08/2023-21:00 Cruzeiro 1 1 Corinthians
+20/08/2023-11:00 Vasco 1 0 Atlético-MG
+20/08/2023-16:00 Santos 2 1 Grêmio
+20/08/2023-16:00 Coritiba 2 3 Flamengo
+20/08/2023-16:00 Bahia 4 0 Red Bull Bragantino
+21/08/2023-20:00 Goiás 1 1 Athletico-PR
+
+26/08/2023-18:30 Flamengo 0 0 Internacional
+26/08/2023-21:00 Corinthians 1 1 Goiás
+27/08/2023-11:00 Red Bull Bragantino 2 0 Cuiabá
+27/08/2023-16:00 Botafogo 3 0 Bahia
+27/08/2023-16:00 Atlético-MG 2 0 Santos
+27/08/2023-16:00 América-MG 2 1 São Paulo
+27/08/2023-18:30 Palmeiras 1 0 Vasco
+27/08/2023-18:30 Athletico-PR 2 2 Fluminense
+27/08/2023-18:30 Fortaleza 3 1 Coritiba
+27/08/2023-19:00 Grêmio 3 0 Cruzeiro
+
+02/09/2023-16:00 Goiás 0 0 Internacional
+02/09/2023-16:00 Athletico-PR 1 1 Atlético-MG
+02/09/2023-21:00 Botafogo 1 2 Flamengo
+03/09/2023-11:00 Grêmio 2 0 Cuiabá
+03/09/2023-16:00 Fluminense 1 0 Fortaleza
+03/09/2023-16:00 Corinthians 0 0 Palmeiras
+03/09/2023-18:30 Cruzeiro 0 0 Red Bull Bragantino
+03/09/2023-18:30 Bahia 1 1 Vasco
+03/09/2023-18:30 América-MG 2 0 Santos
+27/09/2023-19:00 São Paulo 2 1 Coritiba
+
+13/09/2023-21:30 Flamengo 0 3 Athletico-PR
+13/09/2023-21:30 Internacional 2 1 São Paulo
+14/09/2023-19:00 Santos 0 3 Cruzeiro
+14/09/2023-19:00 Fortaleza 2 1 Corinthians
+14/09/2023-20:00 Coritiba 2 4 Bahia
+14/09/2023-21:30 Red Bull Bragantino 2 0 Grêmio
+15/09/2023-20:00 Cuiabá 2 2 América-MG
+15/09/2023-21:30 Palmeiras 1 0 Goiás
+16/09/2023-16:00 Vasco 4 2 Fluminense
+16/09/2023-21:00 Atlético-MG 1 0 Botafogo
+
+18/09/2023-20:00 Bahia 1 2 Santos
+19/09/2023-21:30 América-MG 0 2 Red Bull Bragantino
+20/09/2023-19:00 Goiás 0 0 Flamengo
+20/09/2023-21:30 Fluminense 1 0 Cruzeiro
+20/09/2023-21:30 São Paulo 1 2 Fortaleza
+21/09/2023-19:00 Vasco 5 1 Coritiba
+21/09/2023-19:30 Athletico-PR 2 1 Internacional
+21/09/2023-21:30 Grêmio 1 0 Palmeiras
+22/09/2023-20:00 Corinthians 1 0 Botafogo
+23/09/2023-21:00 Atlético-MG 1 0 Cuiabá
+
+30/09/2023-16:00 Flamengo 1 0 Bahia
+30/09/2023-16:00 Fortaleza 1 1 Grêmio
+30/09/2023-18:30 São Paulo 2 1 Corinthians
+30/09/2023-18:30 Cuiabá 3 0 Fluminense
+30/09/2023-21:00 Internacional 0 2 Atlético-MG
+01/09/2023-16:00 Santos 4 1 Vasco
+01/09/2023-16:00 Cruzeiro 1 1 América-MG
+01/09/2023-16:00 Coritiba 2 0 Athletico-PR
+01/09/2023-18:30 Red Bull Bragantino 2 1 Palmeiras
+02/09/2023-20:00 Botafogo 1 1 Goiás
+
+07/10/2023-16:00 Goiás 4 6 Bahia
+07/10/2023-18:30 Vasco 0 0 São Paulo
+07/10/2023-21:00 Corinthians 1 1 Flamengo
+08/10/2023-16:00 Fluminense 0 2 Botafogo
+08/10/2023-16:00 Palmeiras 1 2 Santos
+08/10/2023-16:00 Internacional 3 2 Grêmio
+08/10/2023-18:30 Atlético-MG 1 2 Coritiba
+08/10/2023-18:30 Athletico-PR 1 1 Red Bull Bragantino
+08/10/2023-18:30 Fortaleza 3 2 América-MG
+14/10/2023-21:00 Cuiabá 0 0 Cruzeiro
+
+18/10/2023-19:00 Grêmio 1 2 Athletico-PR
+18/10/2023-20:00 Coritiba 0 3 Cuiabá
+18/10/2023-20:00 América-MG 1 2 Botafogo
+18/10/2023-21:30 Vasco 1 0 Fortaleza
+18/10/2023-21:30 Goiás 2 0 São Paulo
+18/10/2023-21:30 Bahia 1 0 Internacional
+19/10/2023-19:00 Palmeiras 0 2 Atlético-MG
+19/10/2023-19:00 Cruzeiro 0 2 Flamengo
+19/10/2023-20:00 Santos 1 3 Red Bull Bragantino
+19/10/2023-21:30 Fluminense 3 3 Corinthians
+
+18/10/2023-18:30 São Paulo 3 0 Grêmio
+18/10/2023-18:30 Bahia 2 0 Fortaleza
+18/10/2023-18:30 Cuiabá 1 1 Goiás
+18/10/2023-15:00 Botafogo 1 1 Athletico-PR
+18/10/2023-16:00 Flamengo 1 0 Vasco
+18/10/2023-16:00 Atlético-MG 0 1 Cruzeiro
+18/10/2023-16:00 Internacional 7 1 Santos
+18/10/2023-18:30 Corinthians 1 1 América-MG
+18/10/2023-18:30 Red Bull Bragantino 1 0 Fluminense
+18/10/2023-18:30 Coritiba 0 2 Palmeiras
+
+25/10/2023-19:00 Fluminense 5 3 Goiás
+25/10/2023-19:00 Red Bull Bragantino 1 2 Atlético-MG
+25/10/2023-19:00 Athletico-PR 3 2 América-MG
+25/10/2023-20:00 Palmeiras 5 0 São Paulo
+25/10/2023-20:00 Cruzeiro 3 0 Bahia
+25/10/2023-21:30 Grêmio 3 2 Flamengo
+25/10/2023-21:30 Cuiabá 0 1 Corinthians
+26/10/2023-19:00 Vasco 1 2 Internacional
+26/10/2023-21:30 Santos 2 1 Coritiba
+23/11/2023-19:00 Fortaleza 2 2 Botafogo
+
+28/10/2023-19:00 Palmeiras 1 0 Bahia
+28/10/2023-19:00 América-MG 3 4 Grêmio
+28/10/2023-21:00 Atlético-MG 2 0 Fluminense
+29/10/2023-16:00 Goiás 1 1 Vasco
+29/10/2023-16:00 Athletico-PR 1 1 São Paulo
+29/10/2023-18:30 Corinthians 1 1 Santos
+29/10/2023-18:30 Internacional 3 4 Coritiba
+29/10/2023-20:00 Botafogo 0 1 Cuiabá
+18/11/2023-18:30 Fortaleza 0 1 Cruzeiro
+23/11/2023-21:30 Flamengo 1 0 Red Bull Bragantino
+
+31/10/2023-19:00 Bahia 1 0 Fluminense
+01/11/2023-19:00 Corinthians 1 0 Athletico-PR
+01/11/2023-19:00 Internacional 1 1 América-MG
+01/11/2023-20:00 Flamengo 1 2 Santos
+01/11/2023-20:00 Coritiba 1 2 Grêmio
+01/11/2023-21:30 Botafogo 3 4 Palmeiras
+01/11/2023-21:30 Atlético-MG 3 1 Fortaleza
+02/11/2023-17:00 Cuiabá 0 2 Vasco
+02/11/2023-18:00 Goiás 0 2 Red Bull Bragantino
+02/11/2023-20:00 São Paulo 1 0 Cruzeiro
+
+04/11/2023-19:30 Grêmio 1 0 Bahia
+04/11/2023-19:30 América-MG 1 1 Atlético-MG
+04/11/2023-21:30 Palmeiras 1 0 Athletico-PR
+05/11/2023-16:00 Red Bull Bragantino 1 0 Corinthians
+05/11/2023-16:00 Cruzeiro 1 2 Internacional
+05/11/2023-16:00 Fortaleza 0 2 Flamengo
+05/11/2023-18:30 Coritiba 0 1 Goiás
+06/11/2023-19:00 Vasco 1 0 Botafogo
+06/11/2023-21:00 Santos 0 0 Cuiabá
+22/11/2023-21:30 Fluminense 1 0 São Paulo
+
+08/11/2023-19:00 Internacional 0 0 Fluminense
+08/11/2023-19:00 América-MG 0 3 Coritiba
+08/11/2023-20:00 São Paulo 1 0 Red Bull Bragantino
+08/11/2023-20:00 Athletico-PR 1 1 Fortaleza
+08/11/2023-21:30 Flamengo 3 0 Palmeiras
+09/11/2023-19:00 Corinthians 1 1 Atlético-MG
+09/11/2023-19:00 Goiás 0 1 Santos
+09/11/2023-20:00 Botafogo 3 4 Grêmio
+09/11/2023-20:00 Bahia 0 3 Cuiabá
+22/11/2023-19:00 Cruzeiro 2 2 Vasco
+
+11/11/2023-16:00 Coritiba 1 0 Cruzeiro
+11/11/2023-18:30 Flamengo 1 1 Fluminense
+11/11/2023-21:00Palmeiras 3 0 Internacional
+12/11/2023-16:00 Red Bull Bragantino 2 2 Botafogo
+12/11/2023-16:00 Grêmio 0 1 Corinthians
+12/11/2023-18:30 Vasco 2 1 América-MG
+12/11/2023-18:30 Santos 0 0 São Paulo
+12/11/2023-18:30 Atlético-MG 2 1 Goiás
+12/11/2023-18:30 Bahia 1 1 Athletico-PR
+12/11/2023-18:30 Cuiabá 2 1 Fortaleza
+
+24/11/2023-21:00 Corinthians 1 5 Bahia
+25/11/2023-19:30 Athletico-PR 0 0 Vasco
+25/11/2023-21:00 Fluminense 2 1 Coritiba
+26/11/2023-16:00 Botafogo 1 1 Santos
+26/11/2023-16:00 Atlético-MG 3 0 Grêmio
+26/11/2023-18:30 São Paulo 0 0 Cuiabá
+26/11/2023-18:30 Internacional 1 0 Red Bull Bragantino
+26/11/2023-18:30 Fortaleza 2 2 Palmeiras
+26/11/2023-18:30 América-MG 0 3 Flamengo
+27/11/2023-21:00 Goiás 0 1 Cruzeiro
+
+28/11/2023-21:30 Vasco 2 4 Corinthians
+29/11/2023-19:00 Santos 0 3 Fluminense
+29/11/2023-19:30 Flamengo 0 3 Atlético-MG
+29/11/2023-20:00 Bahia 0 1 São Paulo
+29/11/2023-20:00 Cuiabá 0 2 Internacional
+29/11/2023-21:30 Palmeiras 4 0 América-MG
+29/11/2023-21:30 Coritiba 1 1 Botafogo
+30/11/2023-19:00 Grêmio 2 1 Goiás
+30/11/2023-20:00 Cruzeiro 1 1 Athletico-PR
+30/11/2023-20:30 Red Bull Bragantino 1 2 Fortaleza
+
+29/11/2023-18:00 Corinthians 1 2 Internacional
+29/11/2023-21:00 Atlético-MG 2 1 São Paulo
+29/11/2023-16:00 Flamengo 2 1 Cuiabá
+29/11/2023-16:00 Palmeiras 1 0 Fluminense
+29/11/2023-18:30 Botafogo 0 0 Cruzeiro
+29/11/2023-18:30 Red Bull Bragantino 1 0 Coritiba
+29/11/2023-18:30 Grêmio 1 0 Vasco
+29/11/2023-18:30 Athletico-PR 3 0 Santos
+29/11/2023-18:30 Fortaleza 1 0 Goiás
+29/11/2023-18:30 América-MG 3 2 Bahia
+
+06/12/2023-19:00 Goiás 1 0 América-MG
+06/12/2023-21:30 Fluminense 2 3 Grêmio
+06/12/2023-21:30 Vasco 2 1 Bragantino
+06/12/2023-21:30 São Paulo 1 0 Flamengo
+06/12/2023-21:30 Santos 1 2 Fortaleza
+06/12/2023-21:30 Cruzeiro 1 1 Palmeiras
+06/12/2023-21:30 Internacional 3 1 Botafogo
+06/12/2023-21:30 Coritiba 0 2 Corinthians
+06/12/2023-21:30 Bahia 4 1 Atlético-MG
+06/12/2023-21:30 Cuiabá 3 0 Athletico-PR

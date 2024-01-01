@@ -1,0 +1,192 @@
+
+Nome: Bento
+Numeração: 1
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 10/06/1999
+
+Nome: Mycael
+Numeração: 41
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 12/03/2004
+
+Nome: Léo Linck
+Numeração: 24
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 03/03/2001
+
+Nome: Gabriel Pereira
+Numeração: 43
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 02/07/2002
+
+Nome: Zé Ivaldo
+Numeração: 3
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 21/02/1997
+
+Nome: Pedro Henrique
+Numeração: 34
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 02/10/1995
+
+Nome: Matheus Felipe
+Numeração: 42
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 09/11/1998
+
+Nome: Kaique Rocha
+Numeração: 4
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 28/02/2001
+
+Nome: Thiago Heleno
+Numeração: 44
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 17/09/1988
+
+Nome: Cacá
+Numeração: 25
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 25/04/1999
+
+Nome: Lucas Esquivel
+Numeração: 37
+Posição: Lateral Esq.
+Nacionalidade: Argentina
+Data de Nascimento: 14/10/2001
+
+Nome: Fernando
+Numeração: 6
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 14/09/1999
+
+Nome: Vinicius Kauê
+Numeração: 21
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 01/03/2003
+
+Nome: Bruno Peres
+Numeração: 33
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 01/03/1990
+
+Nome: Madson
+Numeração: 22
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 13/01/1992
+
+Nome: Erick
+Numeração: 26
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 14/11/1997
+
+Nome: Hugo Moura
+Numeração: 17
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 03/01/1998
+
+Nome: Fernandinho
+Numeração: 5
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 04/05/1985
+
+Nome: Christian
+Numeração: 88
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 19/12/2000
+
+Nome: Alex Santana
+Numeração: 80
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 13/05/1995
+
+Nome: Arturo Vidal
+Numeração: 23
+Posição: Meia Central
+Nacionalidade: Chile
+Data de Nascimento: 22/05/1987
+
+Nome: Bruno Zapelli
+Numeração: 10
+Posição: Meia Ofensivo
+Nacionalidade: Argentina
+Data de Nascimento: 16/05/2002
+
+Nome: Vitor Bueno
+Numeração: 8
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 05/09/1994
+
+Nome: Thiago Andrade
+Numeração: 19
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 31/10/2000
+
+Nome: Tomás Cuello
+Numeração: 28
+Posição: Ponta Esquerda
+Nacionalidade: Argentina
+Data de Nascimento: 05/03/2000
+
+Nome: Agustín Canobbio
+Numeração: 14
+Posição: Ponta Direita
+Nacionalidade: Uruguai
+Data de Nascimento: 01/10/1998
+
+Nome: Emersonn
+Numeração: 90
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 16/07/2004
+
+Nome: Vitor Roque
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 28/02/2005
+
+Nome: Rômulo
+Numeração: 35
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 08/02/2002
+
+Nome: Luciano Arriagada
+Numeração: 32
+Posição: Centroavante
+Nacionalidade: Chile
+Data de Nascimento: 30/04/2002
+
+Nome: Pablo
+Numeração: 92
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 23/06/1992
+
+Nome: Willian
+Numeração: 11
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 19/11/1986

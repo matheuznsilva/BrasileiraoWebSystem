@@ -1,0 +1,180 @@
+
+Nome: Weverton
+Numeração: 21
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 13/12/1987 
+
+Nome: Kaique
+Numeração: 51
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 16/04/2003 
+
+Nome: Marcelo Lomba
+Numeração: 42
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 18/12/1986 
+
+Nome: Mateus
+Numeração: 24
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 02/05/2002 
+
+Nome: Gustavo Gómez
+Numeração: 15
+Posição: Zagueiro
+Nacionalidade: Paraguai
+Data de Nascimento: 06/05/1993 
+
+Nome: Murillo
+Numeração: 26
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 27/03/1997 
+
+Nome: Luan
+Numeração: 13
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 10/05/1993 
+
+Nome: Naves
+Numeração: 34
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 08/05/2002 
+
+Nome: Michel
+Numeração: 33
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 20/05/2003 
+
+Nome: Joaquín Piquerez
+Numeração: 22
+Posição: Lateral Esq.
+Nacionalidade: Uruguai
+Data de Nascimento: 24/08/1998 
+
+Nome: Vanderlan
+Numeração: 6
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 07/09/2002 
+
+Nome: Mayke
+Numeração: 12
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 10/11/1992 
+
+Nome: Garcia
+Numeração: 32
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 04/01/2002 
+
+Nome: Marcos Rocha
+Numeração: 2
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 11/12/1988
+
+Nome: Fabinho
+Numeração: 35
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 09/04/2002 
+
+Nome: Jailson
+Numeração: 30
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 07/09/1995 
+
+Nome: Gabriel Menino
+Numeração: 25
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 29/09/2000 
+
+Nome: Zé Rafael
+Numeração: 8
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 16/06/1993 
+
+Nome: Richard Ríos
+Numeração: 27
+Posição: Meia Central
+Nacionalidade: Colômbia
+Data de Nascimento: 02/06/2000 
+
+Nome: Eduard Atuesta
+Numeração: 20
+Posição: Meia Central
+Nacionalidade: Colômbia
+Data de Nascimento: 18/06/1997 
+
+Nome: Raphael Veiga
+Numeração: 23
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 19/06/1995 
+
+Nome: Luis Guilherme
+Numeração: 31
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 09/02/2006 
+
+Nome: Jhon Jhon
+Numeração: 40
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 09/09/2002 
+
+Nome: Dudu
+Numeração: 7
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 07/01/1992 
+
+Nome: Kevin
+Numeração: 37
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 04/01/2003 
+
+Nome: Artur
+Numeração: 14
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 15/02/1998 
+
+Nome: Breno Lopes
+Numeração: 19
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 24/01/1996 
+
+Nome: Endrick
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 21/07/2006 
+
+Nome: Rony
+Numeração: 10
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 11/05/1995 
+
+Nome: José Manuel López
+Numeração: 18
+Posição: Centroavante
+Nacionalidade: Argentina
+Data de Nascimento: 06/12/2000

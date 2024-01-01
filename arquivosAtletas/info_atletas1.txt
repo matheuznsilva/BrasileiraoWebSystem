@@ -1,0 +1,234 @@
+
+Nome: Washington Aguerre
+Numeração: 93
+Posição: Goleiro
+Nacionalidade: Uruguai
+Data de Nascimento: 23/04/1993
+
+Nome: Mateus Pasinato
+Numeração: 14
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 28/06/1992
+
+Nome: Jori
+Numeração: 12
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 15/03/1996
+
+Nome: Matheus Cavichioli
+Numeração: 1
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 27/07/1986
+
+Nome: Robson
+Numeração: 23
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 09/07/2000
+
+Nome: Iago Maidana
+Numeração: 3
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 06/02/1996
+
+Nome: Éder
+Numeração: 33
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 05/04/1995
+
+Nome: Esteban Burgos
+Numeração: 26
+Posição: Zagueiro
+Nacionalidade: Argentina
+Data de Nascimento: 09/01/1992
+
+Nome: Ricardo Silva
+Numeração: 45
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 13/08/1992
+
+Nome: Wanderson
+Numeração: 4
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 07/02/1991
+
+Nome: Júlio
+Numeração: 18
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 28/09/2003
+
+Nome: Nicolas
+Numeração: 30
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 24/02/1997
+
+Nome: Marlon Lopes
+Numeração: 6
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 13/02/1994
+
+Nome: Danilo Avelar
+Numeração: 22
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 09/06/1989
+
+Nome: Daniel Borges
+Numeração: 20
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 23/03/1993
+
+Nome: Marcinho
+Numeração: 25
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 16/05/1996
+
+Nome: Lucas Kal
+Numeração: 21
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 16/03/1996
+
+Nome: Javier Méndez
+Numeração: 23
+Posição: Volante
+Nacionalidade: Uruguai
+Data de Nascimento: 05/12/1994
+
+Nome: Juninho
+Numeração: 8
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 23/10/1987
+
+Nome: Emmanuel Martínez
+Numeração: 5
+Posição: Meia Central
+Nacionalidade: Argentina
+Data de Nascimento: 04/06/1994
+
+Nome: Breno Cascardo
+Numeração: 28
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 25/09/2003
+
+Nome: Rodriguinho
+Numeração: 75
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 05/06/2003
+
+Nome: Alê
+Numeração: 16
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 06/06/1990
+
+Nome: Mateus Henrique
+Numeração: 36
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 02/10/2002
+
+Nome: Martín Benítez
+Numeração: 10
+Posição: Meia Ofensivo
+Nacionalidade: Argentina
+Data de Nascimento: 17/06/1994
+
+Nome: Matheusinho
+Numeração: 7
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 11/02/1998
+
+Nome: Juan Cazares
+Numeração: 80
+Posição: Meia Ofensivo
+Nacionalidade: Equador
+Data de Nascimento: 03/04/1992
+
+Nome: Pedrinho
+Numeração: 29
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 10/11/1999
+
+Nome: Everaldo
+Numeração: 37
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 28/05/1994
+
+Nome: Paulinho Bóia
+Numeração: 47
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 26/06/1998
+
+Nome: Adyson
+Numeração: 44
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 22/09/2005
+
+Nome: Rodrigo Varanda
+Numeração: 65
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 11/01/2003
+
+Nome: Felipe Azevedo
+Numeração: 11
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 10/01/1987
+
+Nome: Renato Kayzer
+Numeração: 79
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 17/02/1996
+
+Nome: Mikael
+Numeração: 87
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 28/05/1999
+
+Nome: Gonzalo Mastriani
+Numeração: 17
+Posição: Centroavante
+Nacionalidade: Uruguai
+Data de Nascimento: 28/04/1993
+
+Nome: Renato Marques
+Numeração: 78
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 09/12/2003
+
+Nome: Aloísio
+Numeração: 99
+Posição: Centroavante
+Nacionalidade: China
+Data de Nascimento: 19/06/1988
+
+Nome: Wellington Paulista
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 22/04/1983

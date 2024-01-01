@@ -1,0 +1,192 @@
+
+Nome: Tadeu
+Numeração: 23
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 04/02/1992
+
+Nome: Marcelo Rangel
+Numeração: 88
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 17/05/1988
+
+Nome: Matheus Alves
+Numeração: 94
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 15/12/1994
+
+Nome: Lucas Halter
+Numeração: 3
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 02/05/2000
+
+Nome: Bruno Melo
+Numeração: 19
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 26/10/1992
+
+Nome: Edu
+Numeração: 43
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 16/06/2000
+
+Nome: Sidimar
+Numeração: 4
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 09/07/1992
+
+Nome: Hugo
+Numeração: 66
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 29/08/1997
+
+Nome: Sander
+Numeração: 6
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 03/10/1990
+
+Nome: Bruno Santos
+Numeração: 13
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 07/02/1993
+
+Nome: Maguinho
+Numeração: 2
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 06/01/1992
+
+Nome: Apodi
+Numeração: 22
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 13/12/1986
+
+Nome: Higor Meritão
+Numeração: 8
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 23/06/1994
+
+Nome: Luís Oyama
+Numeração: 55
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 30/01/1997
+
+Nome: Willian Oliveira
+Numeração: 12
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 16/05/1993
+
+Nome: Diego
+Numeração: 20
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 31/10/1995
+
+Nome: Raphael Guzzo
+Numeração: 5
+Posição: Meia Central
+Nacionalidade: Portugal
+Data de Nascimento: 06/01/1995
+
+Nome: Everton Morelli
+Numeração: 40
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 04/11/1997
+
+Nome: Guilherme
+Numeração: 60
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 21/05/1991
+
+Nome: Julián Palacios
+Numeração: 10
+Posição: Meia Ofensivo
+Nacionalidade: Argentina
+Data de Nascimento: 04/02/1999
+
+Nome: Dodô
+Numeração: 95
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 15/06/2001
+
+Nome: Vinícius
+Numeração: 7
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 03/08/1993
+
+Nome: Diego Gonçalves
+Numeração: 11
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 22/07/1994
+
+Nome: Anderson Oliveira
+Numeração: 70
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 16/07/1998
+
+Nome: Alesson
+Numeração: 27
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 16/02/1999
+
+Nome: Pedro Junqueira
+Numeração: 31
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 23/03/2004
+
+Nome: Allano
+Numeração: 77
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 24/04/1995
+
+Nome: Matheus Babi
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 18/07/1997
+
+Nome: Gabriel Novaes
+Numeração: 99
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 05/04/1999
+
+Nome: Philippe Costa
+Numeração: 90
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 01/03/2000
+
+Nome: João Magno
+Numeração: 45
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 15/02/1997
+
+Nome: Breno Herculano
+Numeração: 25
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 16/02/1999

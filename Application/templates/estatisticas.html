@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+        <meta name="viewport" content="width=device=width, initial-scale=1.0">
+        <link rel="shortcut icon" href="{{ url_for('static', filename='images/logoBr.png') }}" type="image/png" />
+        <link rel="shortcut icon" href="../../Application/static/imagens/logoBr.png" type="image/png" />
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+        <script src="{{ url_for('static', filename='javaScript/menu.js') }}"></script>
+        <script src="/Application/javaScript/menu.js"></script>
+
+        <link rel="stylesheet" href="{{url_for('static', filename='css/header.css')}}">
+        <link rel="stylesheet" href="{{url_for('static', filename='css/footer.css')}}">
+        <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+        <link rel="stylesheet" href="{{url_for('static', filename='css/container.css')}}">
+
+        <link rel="stylesheet" href="/Application/static/css/header.css">
+        <link rel="stylesheet" href="/Application/static/css/footer.css">
+        <link rel="stylesheet" href="/Application/static/css/style.css">
+        <link rel="stylesheet" href="/Application/static/css/container.css">
+        
+
+        <title>BRASILEIRAO</title>
+</head>
+<header id="header">
+    <div class="barra-navegacao">
+        <div class="flex">
+            <div id="title">
+                <!--<img src="{{ url_for('static', filename='imagens/logoBr.png') }}" class="logo-img">-->
+                <h1>CAMPEONATO BRASILEIRO</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="{{ url_for('index') }}">INICIO</a></li>
+                    <li><a href="{{ url_for('classificacao') }}">CLASSIFICAÇÃO</a></li>
+                    <li><a href="{{ url_for('partidas') }}">PARTIDAS</a></li>
+                    <li><a href="{{ url_for('estatisticas') }}">ESTATISTICAS</a></li>
+                </ul>
+            </nav>
+            <div class="btn-contato">
+                <a href="{{ url_for('login') }}"><button id="loginBtn">LOGIN</button></a>
+            </div>
+        </div>
+    </div>
+</header>
+<body>
+    <section>
+    <h1>Artilheiros</h1>
+    <table>
+      <thead>
+          <tr>
+              <th>Equipe</th>
+              <th>Atleta</th>
+              <th>Gols</th>
+          </tr>
+      </thead>
+      <tbody>
+          {% for linha in artilheiros %}
+             <tr>
+                  {% for dado in linha %}
+                      <td>{{dado}}</td>
+                  {% endfor %}
+              </tr>
+          {% endfor %}
+      </tbody>
+    </table>
+    <h1>Cartões Amarelos</h1>
+    <table>
+      <thead>
+          <tr>
+              <th>Equipe</th>
+              <th>Atleta</th>
+              <th>Cartões Amarelos</th>
+          </tr>
+      </thead>
+      <tbody>
+          {% for linha in cartoes_amarelos %}
+             <tr>
+                  {% for dado in linha %}
+                      <td>{{dado}}</td>
+                  {% endfor %}
+              </tr>
+          {% endfor %}
+      </tbody>
+    </table>
+    <h1>Cartões Vermelhos</h1>
+    <table>
+      <thead>
+          <tr>
+              <th>Equipe</th>
+              <th>Atleta</th>
+              <th>Cartões Amarelos</th>
+          </tr>
+      </thead>
+      <tbody>
+          {% for linha in cartoes_vermelhos %}
+             <tr>
+                  {% for dado in linha %}
+                      <td>{{dado}}</td>
+                  {% endfor %}
+              </tr>
+          {% endfor %}
+      </tbody>
+    </table>
+  </section>
+    <!-- Adicione informações como artilheiro, equipes mais e menos violentas, etc. -->
+</body>
+<footer>
+  <div id="footer_content">
+      <div id="footer_contacts">
+        <img src="{{ url_for('static', filename='imagens/cbf-logo.png') }}" class="logo-img">
+          <h1>BRASILEIRÃO</h1>
+          <h1>2023</h1>
+      </div>
+      <div id="footer_social_media">
+          <a href="https://instagram.com/cbf_futebol" class="footer_link">
+              <i class="bi bi-instagram"></i>
+          </a>
+          <a href="https://www.facebook.com/cbf" class="footer_link">
+              <i class="bi bi-facebook"></i>
+          </a>
+          <a href="https://www.x.com/cbf_futebol" class="footer_link">
+              <i class="bi bi-twitter"></i>
+              <!--<i class="bi bi-twitter-x"></i>-->
+          </a>
+      </div>
+      <ul class="footer_list">
+          <li>
+              <h3>ESTATISTICAS</h3>
+          </li>
+          <li>
+              <a href="#" class="footer_link">Artilheiros</a>
+          </li>
+          <li>
+              <a href="#" class="footer_link">Cartões</a>
+          </li>
+          <li>
+              <a href="#" class="footer_link">Music</a>
+          </li>
+      </ul>
+      <ul class="footer_list">
+          <li>
+              <h3> Products </h3>
+          </li>
+          <li>
+              <a href="#" class="footer_link">App</a>
+          </li>
+          <li>
+              <a href="#" class="footer_link">Desktop</a>
+          </li>
+          <li>
+              <a href="#" class="footer_link">Cloud</a>
+          </li>
+      </ul>
+  </div>
+  <div id="footer_copyright">
+      Copyright (c) 2023 | MNS | TODOS OS DIREITOS RESERVADOS
+  </div>
+</footer>
+</html>

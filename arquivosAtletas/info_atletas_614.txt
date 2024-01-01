@@ -1,0 +1,168 @@
+
+Nome: Agustín Rossi
+Numeração: 17
+Posição: Goleiro
+Nacionalidade: Argentina
+Data de Nascimento: 21/08/1995
+
+Nome: Matheus Cunha
+Numeração: 25
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 24/05/2001
+
+Nome: Santos
+Numeração: 1
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 17/03/1990
+
+Nome: Léo Pereira
+Numeração: 4
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 31/01/1996
+
+Nome: Fabrício Bruno
+Numeração: 15
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 12/02/1996
+
+Nome: Pablo
+Numeração: 30
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 21/06/1991
+
+Nome: Gabriel Noga
+Numeração: 41
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 25/01/2002
+
+Nome: Rodrigo Caio
+Numeração: 3
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 17/08/1993
+
+Nome: David Luiz
+Numeração: 23
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 22/04/1987
+
+Nome: Cleiton
+Numeração: 33
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 25/04/2003
+
+Nome: Ayrton Lucas
+Numeração: 6
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 19/06/1997
+
+Nome: Filipe Luís
+Numeração: 16
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 09/08/1985
+
+Nome: Matheuzinho
+Numeração: 34
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 08/09/2000
+
+Nome: Wesley
+Numeração: 43
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 06/09/2003
+
+Nome: Guillermo Varela
+Numeração: 2
+Posição: Lateral Dir.
+Nacionalidade: Uruguai
+Data de Nascimento: 24/03/1993
+
+Nome: Allan
+Numeração: 21
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 03/03/1997
+
+Nome: Erick Pulgar
+Numeração: 5
+Posição: Volante
+Nacionalidade: Chile
+Data de Nascimento: 15/01/1994
+
+Nome: Thiago Maia
+Numeração: 8
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 23/03/1997
+
+Nome: Igor Jesus
+Numeração: 48
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 07/03/2003
+
+Nome: Gerson
+Numeração: 20
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 20/05/1997
+
+Nome: Victor Hugo
+Numeração: 29
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 11/05/2004
+
+Nome: Giorgian de Arrascaeta
+Numeração: 14
+Posição: Meia Ofensivo
+Nacionalidade: Uruguai
+Data de Nascimento: 01/06/1994
+
+Nome: Everton Ribeiro
+Numeração: 7
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 10/04/1989
+
+Nome: Everton
+Numeração: 11
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 22/03/1996
+
+Nome: Bruno Henrique
+Numeração: 27
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 30/12/1990
+
+Nome: Luiz Araújo
+Numeração: 22
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 02/06/1996
+
+Nome: Pedro
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 20/06/1997
+
+Nome: Gabriel Barbosa
+Numeração: 10
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 30/08/1996

@@ -1,0 +1,180 @@
+
+Nome: João Ricardo
+Numeração: 1
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 06/09/1988
+
+Nome: Mauricio Kozlinski
+Numeração: 30
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 18/06/1991
+
+Nome: Fernando Miguel
+Numeração: 16
+Posição: Goleiro
+Nacionalidade: Brasil
+Data de Nascimento: 02/02/1985
+
+Nome: Marcelo Benevenuto
+Numeração: 5
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 07/01/1996
+
+Nome: Tobias Figueiredo
+Numeração: 3
+Posição: Zagueiro
+Nacionalidade: Portugal
+Data de Nascimento: 02/02/1994
+
+Nome: Tinga
+Numeração: 2
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 01/09/1993
+
+Nome: Bernardo Schappo
+Numeração: 14
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 22/03/1999
+
+Nome: Titi
+Numeração: 4
+Posição: Zagueiro
+Nacionalidade: Brasil
+Data de Nascimento: 12/03/1988
+
+Nome: Bruno Pacheco
+Numeração: 6
+Posição: Lateral Esq.
+Nacionalidade: Brasil
+Data de Nascimento: 08/12/1991
+
+Nome: Gonzalo Escobar
+Numeração: 33
+Posição: Lateral Esq.
+Nacionalidade: Argentina
+Data de Nascimento: 16/03/1997
+
+Nome: Dudu
+Numeração: 20
+Posição: Lateral Dir.
+Nacionalidade: Brasil
+Data de Nascimento: 30/05/1997
+
+Nome: Emanuel Brítez
+Numeração: 19
+Posição: Lateral Dir.
+Nacionalidade: Argentina
+Data de Nascimento: 26/03/1992
+
+Nome: Zé Welison
+Numeração: 17
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 11/03/1995
+
+Nome: Lucas Sasha
+Numeração: 88
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 01/03/1990
+
+Nome: Pedro Augusto
+Numeração: 21
+Posição: Volante
+Nacionalidade: Brasil
+Data de Nascimento: 03/03/1997
+
+Nome: Zanocelo
+Numeração: 15
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 30/01/2001
+
+Nome: Hércules
+Numeração: 35
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 20/10/2000
+
+Nome: Caio Alexandre
+Numeração: 8
+Posição: Meia Central
+Nacionalidade: Brasil
+Data de Nascimento: 24/02/1999
+
+Nome: Calebe
+Numeração: 27
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 30/04/2000
+
+Nome: Lucas Crispim
+Numeração: 10
+Posição: Meia Ofensivo
+Nacionalidade: Brasil
+Data de Nascimento: 19/06/1994
+
+Nome: Tomás Pochettino
+Numeração: 7
+Posição: Meia Ofensivo
+Nacionalidade: Argentina
+Data de Nascimento: 01/02/1996
+
+Nome: Pedro Rocha
+Numeração: 32
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 01/10/1994
+
+Nome: Romarinho
+Numeração: 11
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 01/03/1994
+
+Nome: Guilherme
+Numeração: 29
+Posição: Ponta Esquerda
+Nacionalidade: Brasil
+Data de Nascimento: 13/04/1995
+
+Nome: Imanol Machuca
+Numeração: 39
+Posição: Ponta Direita
+Nacionalidade: Argentina
+Data de Nascimento: 15/01/2000
+
+Nome: Yago Pikachu
+Numeração: 22
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 05/06/1992
+
+Nome: Marinho
+Numeração: 12
+Posição: Ponta Direita
+Nacionalidade: Brasil
+Data de Nascimento: 29/05/1990
+
+Nome: Juan Martín Lucero
+Numeração: 9
+Posição: Centroavante
+Nacionalidade: Argentina
+Data de Nascimento: 10/10/1991
+
+Nome: Thiago Galhardo
+Numeração: 91
+Posição: Centroavante
+Nacionalidade: Brasil
+Data de Nascimento: 20/07/1989
+
+Nome: Silvio Romero
+Numeração: 18
+Posição: Centroavante
+Nacionalidade: Argentina
+Data de Nascimento: 22/07/1988

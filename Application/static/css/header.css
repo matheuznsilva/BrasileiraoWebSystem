@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+header {
+    height: 10vh;
+    width: 100%;
+    padding: 35px 4%;
+    padding-bottom: 115px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: .5s;
+    background-color: rgb(19,20,40);  
+    background-position: bottom;
+    z-index: 1000;
+}
+
+header i{
+    font-size: 30px;
+    color: white;
+}
+
+header ul{
+    list-style-type: none;
+}
+
+header ul li{
+    display: inline-block;
+    margin: 0 40px;
+}
+
+header ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+header.rolagem{
+    background-color: rgb(19,20,40);
+    background-image: none;
+    padding: 10px 4%;
+    padding-bottom: 90px;
+}
+
+header.rolagem a{
+    color: rgb(255, 255, 255);
+}
+
+#title{
+    flex-direction: column;
+    line-height: 40px;
+    color: rgb(200,255,0);
+}
+
+#title h1{
+    text-align: left;
+}
+
+@media screen and (max-width:768px){
+    header{
+        padding-bottom: 140px;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+    }
+    header.rolagem{
+        padding-bottom: 120px;
+    }
+}
+
+@media screen and (max-width:426px){
+    header{
+        grid-template-columns: repeat(1, 1fr);
+        padding: 3rem 2rem;    
+    }
+}
