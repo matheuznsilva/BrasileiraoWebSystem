@@ -10,7 +10,7 @@ Vide descrição completa na Documentação presente nesse repositório.
   <img src="https://img.shields.io/badge/Python-F4D03F?style=for-the-badge&amp;logo=Python&amp;logoColor=black" alt="PYTHON">
   <img src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&amp;logo=Flask&amp;logoColor=white" alt="FLASK">
   <img src="https://img.shields.io/badge/MySql-F1C40F?style=for-the-badge&amp;logo=MySql&amp;logoColor=black" alt="MYSQL">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="javascript">
+  <img src="https://img.shields.io/badge/Node-323330?style=for-the-badge&amp;logo=Node.js&amp;logoColor=339933" alt="node.js">
 </div>
 
 ## Instalação
