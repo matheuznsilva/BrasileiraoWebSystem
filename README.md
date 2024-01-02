@@ -33,6 +33,10 @@ Se não estiver instalado ou você precisar de uma versão específica, você po
 O Flask é um framework web em Python. Você pode instalar o Flask usando o `pip`, que é o gerenciador de pacotes do Python:
 
     $ pip install flask
+    $ pip install mysql-connector-python
+    $ pip install Flask-Bcrypt
+    $ pip install requests
+    $ pip install beautifulsoup4
 
 ### Instalar Node.js e JavaScript
 
@@ -84,23 +88,6 @@ E depois execute o comando
 tendo executado o comando acima, abra o navegador de sua preferência e digite na barra de endereços: 
 
     http://localhost:5000
-
-## Estrutura do Projeto
-
-Brasileirao_Web_Sytem
-|
-|-- Application/: Este diretório contém todo o código relacionado a aplicação.
-|   |
-|   |-- static/: Contém arquivos estáticos como CSS, JavaScript e imagens.
-|   |-- css/: Arquivos de estilo CSS.
-|   |-- js/: Arquivos de script JavaScript.
-|   |-- images/: Armazena imagens utilizadas no projeto.
-|   |-- templates/: Arquivos HTML usando Jinja2 (usado pelo Flask) para renderizar páginas dinâmicas.
-|   |-- app.py: Arquivo principal do Flask. Contém rotas, configurações e interações com a aplicação Flask.
-|-- Database/: Esse diretorio contem os Scripts para criação de povoamento do banco de dados, alem de um exemplo de BD
-|   |-- Example Database/: Exemplo de Banco de Dados funcional
-|   |-- Population script/: Scripts de povoamento do banco de dados
-|   |-- Table creation script/: Script de criação do banco de dados
 
 ## Status do Projeto
 
